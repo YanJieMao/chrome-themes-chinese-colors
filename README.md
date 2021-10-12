@@ -1,3 +1,5 @@
 # chrome-themes-chinese-colors
-chrome themes 
-才用中国传统配色
+# 采用中国传统配色
+
+![image-20211012214712222](img/image-20211012214712222.png)
+
