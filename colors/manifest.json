@@ -3,16 +3,33 @@
   "version": "1.0",
   "name": "chinese-colors",
   "theme": {
-    "colors" : {
-      "frame" : [240, 120, 130],  //香叶红
-      "frame_inactive" : [44 , 150, 120], //青帆绿
-      "toolbar" : [248 , 223, 112], //麦芽黄
-      "background_tab" : [69, 183, 135], //蛙绿
-      "omnibox_background" : [254, 204, 17] //向日葵黄
-      
-      
+    "colors": {
+      "frame": [
+        240,
+        120,
+        130
+      ], //香叶红
+      "frame_inactive": [
+        44,
+        150,
+        120
+      ], //青帆绿
+      "omnibox_background": [
+        186,
+        207,
+        101
+      ], //苹果绿
+      "background_tab": [
+        69,
+        183,
+        135
+      ], //蛙绿
+      "toolbar": [
+        244,
+        249,
+        220
+      ] //乳白色
     }
-	
-   
   }
+
 }
